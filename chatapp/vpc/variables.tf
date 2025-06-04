@@ -1,0 +1,2 @@
+variable "main" {}
+variable "subnets" {}
